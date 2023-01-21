@@ -7,7 +7,6 @@ input {
 #lista-de-productos {
   display: flex
 }
-
 .producto {
   width: 200px;
   height: 200px;
